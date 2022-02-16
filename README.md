@@ -28,7 +28,7 @@ Bienvenue sur mon Github !
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 
-<p align="center">
+<div align="center">
     
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=StephanieMenard&show_icons=true&theme=dark" alt="github stats" width="45%"/>
@@ -36,7 +36,7 @@ Bienvenue sur mon Github !
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanieMenard&theme=dark" width="48%">
     
-</p>
+</div>
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieMenard&theme=dark&layout=compact)
