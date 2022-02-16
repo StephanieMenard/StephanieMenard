@@ -19,13 +19,18 @@ Bienvenue sur mon Github !
 
 
 
-
-
  
 ### Outils
-![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)
+![git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=red)
  
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
+![vscode](https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=Vscode&logoColor=blue)
+
+### Contact
+![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)
+
+![gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=red)
 
 
 <div align="center">
@@ -35,13 +40,11 @@ Bienvenue sur mon Github !
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanieMenard&theme=dark" width="48%">
-    
-</div>
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieMenard&theme=dark&layout=compact)
  
-
+</div>
 
 <!--
 **StephanieMenard/StephanieMenard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
