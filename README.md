@@ -1,9 +1,8 @@
 ### Hi there 👋
 Bienvenue sur mon Github ! 
 
-	[gmail](https://www.gmail.com)
-	![alt text](stef(2).jpg)
-	?style=flat&logo=appveyor
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=StephanieMenard&show_icons=true&theme=dark" alt="github stats" width="45%"/>
