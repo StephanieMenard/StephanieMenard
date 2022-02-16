@@ -3,12 +3,12 @@ Bienvenue sur mon Github !
 
 ### Technologies
 
-![php](https://img.shields.io/badge/Php-000000?style=for-the-badge&logo=Php&logoColor=white)
+![php](https://img.shields.io/badge/Php-000000?style=for-the-badge&logo=Php&logoColor=blue)
  
- ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=white)
+ ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=yellow)
  
 ### Outils
-![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)
+![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)
  
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
