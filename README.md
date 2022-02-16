@@ -1,10 +1,16 @@
 ### Hi there 👋
 Bienvenue sur mon Github ! 
 
+### Technologies
+
+![php](https://img.shields.io/badge/Php-000000?style=for-the-badge&logo=Php&logoColor=white)
+ 
+ ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=white)
+ 
+### Outils
 ![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)
  
- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 
 ### Github Stats
