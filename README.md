@@ -17,8 +17,7 @@ Bienvenue sur mon Github !
 ![vscode](https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=Vscode&logoColor=blue)
 
 ### Contact
-![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)
-![gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=red)
+<a href="nena.stf7@gmail.com">![gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=red)</a>
 <a href="https://www.linkedin.com/in/stephanie-menard-495a44218/">![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)</a>
 
 
