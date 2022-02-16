@@ -1,9 +1,8 @@
-### Hi there 👋
-
 ### Présentation
-Bienvenue sur mon Github ! 
-Je suis Stéphanie, j'ai 28 ans et j'habite dans l'Oise.
-Après un an d'apprentissage en autodidacte, j'ai suivi une formation de développeur web et web mobile avec l'école O'Clock.
+#### Hi there 👋
+Bienvenue sur mon Github ! <br/>
+Je suis Stéphanie, j'ai 28 ans et j'habite dans l'Oise.<br/>
+Après un an d'apprentissage en autodidacte, j'ai suivi une formation de développeur web et web mobile avec l'école O'Clock.<br/>
 Tout fraichement sortie de formation, je suis à la recherche d'un stage afin de parfaire mes connaissances.
 
 ### Technologies
