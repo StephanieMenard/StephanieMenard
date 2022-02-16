@@ -2,6 +2,7 @@
 Bienvenue sur mon Github ! 
 
 	[gmail](https://www.gmail.com)
+	![alt text](stef(2).jpg)
 
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=StephanieMenard&show_icons=true&theme=dark" alt="github stats" width="45%"/>
