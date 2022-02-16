@@ -7,7 +7,7 @@ Bienvenue sur mon Github !
 
 ![css](https://img.shields.io/badge/Css-000000?style=for-the-badge&logo=Css&logoColor=blue)
  
-![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=yellow)
+![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=yellow&background-color=red)
 
 ![bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=purple)
 
