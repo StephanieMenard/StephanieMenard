@@ -19,6 +19,7 @@ Bienvenue sur mon Github !
 ### Contact
 ![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)
 ![gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=red)
+<a href="https://www.linkedin.com/in/stephanie-menard-495a44218/">Linkedin</a>
 
 
 <div align="center">
