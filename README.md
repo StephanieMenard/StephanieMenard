@@ -3,7 +3,7 @@
 Bienvenue sur mon Github ! 
 
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=StephanieMenard&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=StephanieMenard&show_icons=true&theme=dark" alt="github stats" width="45%" align="right"/>
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanieMenard&theme=dark" width="48%" >
