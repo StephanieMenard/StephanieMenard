@@ -1,7 +1,7 @@
 ### Hi there 👋
 Bienvenue sur mon Github ! 
 
-?style=for-the-badge&logo=appveyor
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
 
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=StephanieMenard&show_icons=true&theme=dark" alt="github stats" width="45%"/>
