@@ -3,7 +3,7 @@ Bienvenue sur mon Github !
 
 ### Technologies
 
-![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html&logoColor=orange)
+![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html&logoColor=green)
 
 ![css](https://img.shields.io/badge/Css-000000?style=for-the-badge&logo=Css&logoColor=blue)
  
