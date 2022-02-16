@@ -4,32 +4,20 @@ Bienvenue sur mon Github !
 ### Technologies
     
 ![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html&logoColor=green)
-
 ![css](https://img.shields.io/badge/Css-000000?style=for-the-badge&logo=Css&logoColor=blue)
- 
 ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=yellow)
-
 ![bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=purple)
-
 ![php](https://img.shields.io/badge/Php-000000?style=for-the-badge&logo=Php&logoColor=blue)
-
 ![wordpress](https://img.shields.io/badge/Wordpress-000000?style=for-the-badge&logo=Wordpress&logoColor=blue)
-
 ![mysql](https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=Mysql&logoColor=blue)
-
-
-
  
 ### Outils
 ![git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=red)
- 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
 ![vscode](https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=Vscode&logoColor=blue)
 
 ### Contact
 ![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)
-
 ![gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=red)
 
 
