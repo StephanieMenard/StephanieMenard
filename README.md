@@ -24,7 +24,8 @@ Tout fraichement sortie de formation, je suis à la recherche d'un stage afin de
 <a href="nena.stf7@gmail.com">![gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=red)</a>
 <a href="https://www.linkedin.com/in/stephanie-menard-495a44218/">![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)</a>
 
-<div align="center">   
+<div align="center"> 
+ 
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=StephanieMenard&show_icons=true&theme=dark" alt="ghub stats" width="45%"/>
 
@@ -32,7 +33,8 @@ Tout fraichement sortie de formation, je suis à la recherche d'un stage afin de
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanieMenard&theme=dark" width="48%">
 
 ### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieMenard&theme=dark&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieMenard&theme=dark&layout=compact) 
+ 
 </div>
 
 <!--
