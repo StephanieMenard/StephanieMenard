@@ -1,8 +1,12 @@
 ### Hi there 👋
+
+### Présentation
 Bienvenue sur mon Github ! 
+Je suis Stéphanie, j'ai 28 ans et j'habite dans l'Oise.
+Après un an d'apprentissage en autodidacte, j'ai suivi une formation de développeur web et web mobile avec l'école O'Clock.
+Tout fraichement sortie de formation, je suis à la recherche d'un stage afin de parfaire mes connaissances.
 
 ### Technologies
-    
 ![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html&logoColor=green)
 ![css](https://img.shields.io/badge/Css-000000?style=for-the-badge&logo=Css&logoColor=blue)
 ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=yellow)
@@ -20,9 +24,7 @@ Bienvenue sur mon Github !
 <a href="nena.stf7@gmail.com">![gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=red)</a>
 <a href="https://www.linkedin.com/in/stephanie-menard-495a44218/">![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)</a>
 
-
-<div align="center">
-    
+<div align="center">   
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=StephanieMenard&show_icons=true&theme=dark" alt="ghub stats" width="45%"/>
 
@@ -30,8 +32,7 @@ Bienvenue sur mon Github !
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanieMenard&theme=dark" width="48%">
 
 ### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieMenard&theme=dark&layout=compact)
- 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieMenard&theme=dark&layout=compact) 
 </div>
 
 <!--
