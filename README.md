@@ -2,8 +2,6 @@
 Bienvenue sur mon Github ! 
 
 ### Technologies
-
-<p align="center">
     
 ![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html&logoColor=green)
 
@@ -18,7 +16,7 @@ Bienvenue sur mon Github !
 ![wordpress](https://img.shields.io/badge/Wordpress-000000?style=for-the-badge&logo=Wordpress&logoColor=blue)
 
 ![mysql](https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=Mysql&logoColor=blue)
-</p>
+
 
 
 
@@ -30,11 +28,15 @@ Bienvenue sur mon Github !
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 
+<p align="center">
+    
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=StephanieMenard&show_icons=true&theme=dark" alt="github stats" width="45%"/>
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanieMenard&theme=dark" width="48%">
+    
+</p>
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieMenard&theme=dark&layout=compact)
