@@ -3,11 +3,11 @@ Bienvenue sur mon Github !
 
 ### Technologies
 
-![html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=Html&logoColor=green)
+![html](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML&logoColor=green)
 
 ![css](https://img.shields.io/badge/Css-000000?style=for-the-badge&logo=Css&logoColor=blue)
  
-![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=yellow&background-color=red)
+![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=yellow)
 
 ![bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=purple)
 
